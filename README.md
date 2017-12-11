@@ -43,21 +43,6 @@ Menghasilkan lulusan Sistem Informasi yang berkualitas dengan disertai keimanan 
 Menghasilkan penelitian Sistem Informasi berkualitas yang mampu mendukung pada kegiatan pelayanan  kepada masyarakat yang berkualitas.
 Terwujudnya kegiatan pengabdian kepada masyarakat yang berkualitas, melalui penerapan pengetahuan dan hasil penelitian Sistem Informasi dan Islam, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan keislaman.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 ### Link
 
 [Website Uin Suska Riau](https://uin-suska.ac.id) & [Website Sistem Informasi Uin Suska](https://sif.uin-suska.ac.id).
